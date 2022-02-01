@@ -1,0 +1,2 @@
+# Speech commands
+Welcome at the repository for the speech commands project for the INFOMPR Utrecht University course. This respository contains all the files to reproduce our findings.  ```No_Att_Speech_Recog.ipynb``` creates model weights for the keyword recognition with an RNN without an attention layer ```Att_Speech_Recog.ipynb``` does the same for a attention module RNN. These modules can be evaluated with ```Speech_Recog_Evaluation.ipynb```. The code is based on [this paper](https://arxiv.org/pdf/1808.08929.pdf?source=post_page).
